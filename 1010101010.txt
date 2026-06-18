@@ -1,0 +1,4 @@
+终端安装polars：
+pip install polars
+启动：
+streamlit run app.py
